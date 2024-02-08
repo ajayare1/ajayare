@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ajayare1.github/ajayare/static/css/main.f855e6bc.css",
+    "main.js": "/ajayare1.github/ajayare/static/js/main.b3b64c52.js",
+    "static/js/592.87b14a97.chunk.js": "/ajayare1.github/ajayare/static/js/592.87b14a97.chunk.js",
+    "static/media/profileimage.jpg": "/ajayare1.github/ajayare/static/media/profileimage.d51ae7260b948cf7db6d.jpg",
+    "index.html": "/ajayare1.github/ajayare/index.html",
+    "main.f855e6bc.css.map": "/ajayare1.github/ajayare/static/css/main.f855e6bc.css.map",
+    "main.b3b64c52.js.map": "/ajayare1.github/ajayare/static/js/main.b3b64c52.js.map",
+    "592.87b14a97.chunk.js.map": "/ajayare1.github/ajayare/static/js/592.87b14a97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b3b64c52.js"
+  ]
+}
